@@ -1,1 +1,1 @@
-$This is A blog with EndCentury(a oier)$
+$This\ is\ A\ blog\ with\ EndCentury(a oier)$
